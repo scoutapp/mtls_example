@@ -3,7 +3,7 @@ GEM
   specs:
     mustermann (3.0.0)
       ruby2_keywords (~> 0.0.1)
-    rack (2.2.8)
+    rack (2.2.8.1)
     rack-protection (3.0.6)
       rack
     ruby2_keywords (0.0.5)
@@ -17,6 +17,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-20
+  x86_64-linux
 
 DEPENDENCIES
   sinatra (~> 3.0)
